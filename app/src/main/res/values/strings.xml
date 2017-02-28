@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProfileViewer</string>
+    <string name="facebook_app_id">187987068354722</string>
+    <string name="fb_login_protocol_scheme">fb187987068354722</string>
+</resources>
